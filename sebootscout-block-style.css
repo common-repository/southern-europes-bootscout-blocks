@@ -1,0 +1,16 @@
+.se-home-banner {
+    height: 600px;
+    padding-bottom: -28px!important;
+}
+
+.se-block-background {
+    height: 75%;
+    width: 100%;
+    padding: 10vh 2vw;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true]+.wp-block-navigation__submenu-container {
+	overflow: auto;
+	height: 200px;
+}

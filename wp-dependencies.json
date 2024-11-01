@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Stackable – Page Builder Gutenberg Blocks",
+      "host": "wordpress",
+      "slug": "stackable-ultimate-gutenberg-blocks/plugin.php",
+      "uri": "https://wordpress.org/plugins/stackable-ultimate-gutenberg-blocks/",
+      "required": true
+    },
+
+    {
+      "name": "Gutenberg Blocks by Kadence Blocks – Page Builder Features",
+      "host": "wordpress",
+      "slug": "kadence-blocks/kadence-blocks.php",
+      "uri": "https://wordpress.org/plugins/kadence-blocks/",
+      "required": true
+    }
+  ]
